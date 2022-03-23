@@ -7,6 +7,7 @@
 ## environment
 - i use debian
 - dwm is a cool window manager
+- st is a very nice terminal emulator (used to use gnome-terminal LOL)
 - editors: neovim, vscode, ex joe user
 
 ## here some stuff:
