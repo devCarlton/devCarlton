@@ -7,7 +7,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notcarlton&theme=dark)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiayiSoftware&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=notcarlton&show_icons=true&theme=dark)
 </details>
