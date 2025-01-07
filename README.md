@@ -1,5 +1,4 @@
 # [phase](https://phased.tech)
-I hate reverse engineering.
 
 ![](https://komarev.com/ghpvc/?username=notcarlton)
 
