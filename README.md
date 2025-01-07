@@ -5,6 +5,7 @@ I hate reverse engineering.
 
 <details>
 <summary>contact</summary>
-phase@phased.tech - *email*
-@phasephasephase - *discord*
+phase@phased.tech - <i>email</i>
+
+@phasephasephase - <i>discord</i>
 </details>
