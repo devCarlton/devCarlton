@@ -4,7 +4,7 @@
 
 <details>
 <summary>contact</summary>
-phase@phased.tech - <i>email</i>
+<a href="mailto:phase@phased.tech">phase@phased.tech</a> - <i>email</i>
 
-@phasephasephase - <i>discord</i>
+<a href="https://discord.com/users/1100905690299633704">@phasephasephase</a> - <i>discord</i>
 </details>
